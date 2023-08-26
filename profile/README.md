@@ -10,7 +10,7 @@ their own thoughts on the internet. With Txts, anyone can use any device to shar
 - [txts](https://github.com/txts-team/txts)
   - A faithful recreation of the txti.es service in ASP.NET
 - [txts.py](https://github.com/txts-team/txts.py)
-  - Python wrapper for txts
+  - Python wrapper for interacting with txts
  
 ## Get in touch
 
