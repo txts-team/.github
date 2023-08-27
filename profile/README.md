@@ -11,6 +11,8 @@ their own thoughts on the internet. With Txts, anyone can use any device to shar
   - A faithful recreation of the txti.es service in ASP.NET
 - [txts.py](https://github.com/txts-team/txts.py)
   - Python wrapper for interacting with txts
+- [txts.NET](https://github.com/txts-team/txts.NET)
+  - .NET wrapper for interacting with txts
  
 ## Get in touch
 
