@@ -7,8 +7,11 @@ their own thoughts on the internet. With Txts, anyone can use any device to shar
 
 ## What we're working on
 
+### Main projects
 - [txts](https://github.com/txts-team/txts)
   - A faithful recreation of the txti.es service in ASP.NET
+
+### API Wrappers
 - [txts.py](https://github.com/txts-team/txts.py)
   - Python wrapper for interacting with txts
 - [txts.NET](https://github.com/txts-team/txts.NET)
