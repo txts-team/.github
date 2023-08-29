@@ -16,6 +16,8 @@ their own thoughts on the internet. With Txts, anyone can use any device to shar
   - Python wrapper for interacting with txts
 - [txts.NET](https://github.com/txts-team/txts.NET)
   - .NET wrapper for interacting with txts
+- [txts.rs](https://github.com/txts-team/txts.rs)
+  - Rust wrapper for interacting with txts
  
 ## Get in touch
 
