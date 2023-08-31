@@ -18,7 +18,7 @@ their own thoughts on the internet. With Txts, anyone can use any device to shar
   - .NET wrapper for interacting with txts
 - [txts.rs](https://github.com/txts-team/txts.rs)
   - Rust wrapper for interacting with txts
-- [txts.js](https://github.com/txts/team/txts.js)
+- [txts.js](https://github.com/txts-team/txts.js)
   - Node.js wrapper for interacting with txts
  
 ## Get in touch
